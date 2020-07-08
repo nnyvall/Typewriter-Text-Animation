@@ -1,3 +1,4 @@
+//These are the words that are cycled through
 const words = ['adapt', 'afford', 'port', 'applic', 'employ', 'cap', 'reli', 'dur', 'suit', 'malle', 'vari', 'scal', 'reus', 'test'];
 let count = 0;
 let index = 0;
